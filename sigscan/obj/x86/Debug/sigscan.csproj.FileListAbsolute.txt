@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\bin\Debug\sigscan.exe.manifest
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\bin\Debug\sigscan.application
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\bin\Debug\sigscan.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\bin\Debug\sigscan.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\obj\x86\Debug\sigscan.exe.manifest
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\obj\x86\Debug\sigscan.application
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\obj\x86\Debug\sigscan.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\sigscan\sigscan\obj\x86\Debug\sigscan.pdb
